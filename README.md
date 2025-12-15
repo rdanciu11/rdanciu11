@@ -14,5 +14,3 @@ Fourth-year Software Engineering student in the Netherlands. Passionate about we
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
