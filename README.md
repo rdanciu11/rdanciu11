@@ -4,7 +4,7 @@ Fourth-year Software Engineering student in the Netherlands, passionate about bu
 
 🔭 **Currently working on:** 
 - Contributing to React (Facebook/Meta)
-- Full-stack development at TeamOscar (formerly UurtjeVoorJeBuurtje)
+- Full-stack development at SchoolBoost Cologne, Germany
 
 🌱 **Learning:** React internals, advanced TypeScript patterns, AWS services  
 💬 **Ask me about:** React, TypeScript, Full-stack Development  
