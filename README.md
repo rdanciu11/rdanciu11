@@ -27,8 +27,29 @@ Working on critical bug fixes in React 19's form actions feature, improving asyn
 
 ## 💼 Professional Projects
 
+### [CityDashboard](http://citydashboard.schoolboost.de/) - Municipal School Administration Platform
+*Full-stack Developer (Graduation Thesis) | Feb 2026 - Present*
+
+Building a multi-tenant SaaS platform for German municipalities (Schulträger) to manage compulsory school attendance across all schools from a single interface, replacing manual spreadsheet workflows.
+
+**My Contributions:**
+- 🏫 **Compulsory Education Monitoring** - Fuzzy matching engine cross-referencing population registers against school enrolments (Schulpflichtüberwachung)
+- 📊 **Capacity Planning** - Municipality-wide utilisation dashboard with traffic-light status, forecasting, and redistribution suggestions
+- 📸 **Snapshot Archive** - Point-in-time enrolment records (Stichtag) with two-snapshot diff comparison
+- 🎓 **School Registration** - Full Schulanmeldung cycle with parent portal, HMAC auth, and automatic assignment algorithm
+- 🔍 **Duplicate Detection** - Cross-school student deduplication using Levenshtein distance
+- 📄 **Reports & Exports** - Client-side PDF reports and CSV exports for regulatory submission
+- 🏗️ **Architecture Decision** - Formal ADR evaluating build vs. extend options for the existing MVP
+
+**Tech Stack:**  
+Next.js 15 • React 19 • TypeScript • Tailwind CSS • shadcn/ui • Recharts • ORPC • Prisma ORM • PostgreSQL • Better Auth • Zod • next-intl • Turborepo • pnpm
+
+**Context:** Graduation thesis at Schoolboost GmbH, Cologne — platform serves German municipalities managing school-age children under NRW compulsory education law
+
+---
+
 ### [TeamOscar](https://teamoscar.nl) - Community Service Platform
-*Full-stack Developer | 2025 - Present*
+*Full-stack Developer | Sep, 2025 - Feb 2026*
 
 Building a comprehensive platform connecting volunteers with community members needing assistance (formerly UurtjeVoorJeBuurtje).
 
@@ -53,8 +74,11 @@ React • React Native • TypeScript • Express.js • PostgreSQL • AWS • 
 **Frontend:**  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 **Backend:**  
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -62,6 +86,7 @@ React • React Native • TypeScript • Express.js • PostgreSQL • AWS • 
 
 **Database:**  
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 **CMS & Media:**  
 ![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white)
@@ -69,7 +94,9 @@ React • React Native • TypeScript • Express.js • PostgreSQL • AWS • 
 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 
 **Message Queue:**  
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
@@ -92,7 +119,7 @@ React • React Native • TypeScript • Express.js • PostgreSQL • AWS • 
 
 ![](https://nirzak-streak-stats.vercel.app/?user=rdanciu11&theme=dark&hide_border=true)
 
-> 💡 *Most of my work is in private repositories for professional projects (TeamOscar) and university assignments. Public contributions reflect open source work.*
+> 💡 *Most of my work is in private repositories for professional projects (TeamOscar, SchoolBoost) and university assignments. Public contributions reflect open source work.*
 
 ---
 
