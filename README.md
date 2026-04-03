@@ -6,8 +6,7 @@ Fourth-year Software Engineering student in the Netherlands, passionate about bu
 - Contributing to React (Facebook/Meta)
 - Full-stack development at SchoolBoost Cologne, Germany
 
-🌱 **Learning:** React internals, advanced TypeScript patterns, AWS services  
-💬 **Ask me about:** React, TypeScript, Full-stack Development  
+🌱 **Learning:** React internals, advanced TypeScript patterns, AWS services, Kubernetes, Terraform
 📫 **Reach me:** danciurobert27@gmail.com
 
 ---
@@ -95,6 +94,7 @@ React • React Native • TypeScript • Express.js • PostgreSQL • AWS • 
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 
