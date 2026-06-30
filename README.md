@@ -6,7 +6,7 @@ BSc Software Engineering, Fontys (2026) · Full-stack engineer specialising in T
 - Contributing to React (Facebook/Meta)
 - Full-stack development at SchoolBoost Cologne, Germany
 
-🌱 **Learning:** React internals, advanced TypeScript patterns, AWS services, Kubernetes, Terraform
+🌱 **Learning:** React internals, advanced TypeScript patterns, AWS services, Kubernetes, Terraform  
 📫 **Reach me:** danciurobert27@gmail.com
 
 ---
