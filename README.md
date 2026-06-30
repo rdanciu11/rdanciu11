@@ -126,7 +126,7 @@ React • React Native • TypeScript • Express.js • PostgreSQL • AWS • 
 ## 🎓 Education
 
 **Software Engineering** | Fontys University of Applied Sciences  
-*2022 - Present* | Venlo, Netherlands
+*2022 - 2026* | Venlo, Netherlands
 
 Focus: Full-stack web development, distributed systems, software architecture
 
