@@ -1,6 +1,6 @@
 # 💫 About Me
 
-Fourth-year Software Engineering student in the Netherlands, passionate about building modern web applications with React and TypeScript. Currently contributing to open source projects and working on production applications used by real users.
+BSc Software Engineering, Fontys (2026) · Full-stack engineer specialising in TypeScript, Next.js & PostgreSQL
 
 🔭 **Currently working on:** 
 - Contributing to React (Facebook/Meta)
@@ -26,10 +26,10 @@ Working on critical bug fixes in React 19's form actions feature, improving asyn
 
 ## 💼 Professional Projects
 
-### [CityDashboard](http://citydashboard.schoolboost.de/) - Municipal School Administration Platform
-*Full-stack Developer (Graduation Thesis) | Feb 2026 - Present*
+### [CityDashboard](https://schulstart.schoolboost.de/) - Municipal School Administration Platform
+*Full-stack Developer (Graduation Thesis) | Feb 2026 - July 2026*
 
-Building a multi-tenant SaaS platform for German municipalities (Schulträger) to manage compulsory school attendance across all schools from a single interface, replacing manual spreadsheet workflows.
+Built a multi-tenant SaaS platform for German municipalities (Schulträger) to manage compulsory school attendance across all schools from a single interface — delivered as graduation thesis, deployed to production serving live city administrations in NRW.
 
 **My Contributions:**
 - 🏫 **Compulsory Education Monitoring** - Fuzzy matching engine cross-referencing population registers against school enrolments (Schulpflichtüberwachung)
@@ -43,12 +43,12 @@ Building a multi-tenant SaaS platform for German municipalities (Schulträger) t
 **Tech Stack:**  
 Next.js 15 • React 19 • TypeScript • Tailwind CSS • shadcn/ui • Recharts • ORPC • Prisma ORM • PostgreSQL • Better Auth • Zod • next-intl • Turborepo • pnpm
 
-**Context:** Graduation thesis at Schoolboost GmbH, Cologne — platform serves German municipalities managing school-age children under NRW compulsory education law
+**Context:** Graduation thesis at SchoolBoost GmbH, Cologne — platform serves German municipalities managing school-age children under NRW compulsory education law (§46 SchulG NRW). 49 functional requirements across 8 modules, traced against 51 test scenarios.
 
 ---
 
 ### [TeamOscar](https://teamoscar.nl) - Community Service Platform
-*Full-stack Developer | Sep, 2025 - Feb 2026*
+*lead Software Developer | Sep, 2025 - Feb 2026*
 
 Building a comprehensive platform connecting volunteers with community members needing assistance (formerly UurtjeVoorJeBuurtje).
 
